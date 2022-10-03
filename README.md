@@ -5,7 +5,7 @@
 2. **Nickname:** `NordStar` or `iCONO`
 3. **Status:** Student of RosNOU
 4. **IDE:** <img src="https://img.shields.io/badge/WebStorm-000000?style=square&logo=WebStorm&logoColor=white" />
-4. **Coding on:** <img src="https://img.shields.io/badge/Node.js-43853D?style=square&logo=node.js&logoColor=white" />, <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=square&logo=c%2B%2B&logoColor=white" />
+4. **Coding on:** <img src="https://img.shields.io/badge/Node.js-43853D?style=square&logo=node.js&logoColor=white" />, <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=square&logo=c%2B%2B&logoColor=white" />, <img src="https://img.shields.io/badge/JavaScript-323330?style=square&logo=javascript&logoColor=F7DF1E" />
 5. **Speaking on:** 🇺🇸, 🇷🇺
 ----
 ### 📫 My contacts:
