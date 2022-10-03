@@ -10,6 +10,7 @@
 ----
 ### 📫 My contacts:
 1. <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=square&logo=telegram&logoColor=white" /> [click](https://t.me/Gen3Static)
+2. <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=square&logo=vk&logoColor=white" /> [click](https://vk.com/palagras)
 ----
 ### 🖥️ My PC Specs:
 
@@ -17,6 +18,7 @@
 + **GPU:** <img src="https://img.shields.io/badge/AMD-Radeon_RX_5700_XT-ED1C24?style=square&logo=amd&logoColor=white" />
 + **RAM:** 16Gb
 ----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NordStarProj" />
 <!---
 NordStarProj/NordStarProj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
