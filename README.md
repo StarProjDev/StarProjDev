@@ -1,6 +1,6 @@
 # ✨ NordStar info ✨
 ----
-### 🪪 Personal data:
+### 🧬 Personal data:
 1. **Name:** Christin
 2. **Nickname:** `NordStar` or `iCONO`
 3. **Status:** Student of RosNOU
