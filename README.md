@@ -26,7 +26,7 @@
 
 <div align="center"> 
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NordStarProj" />
+[![Top Langs](https://github-readme-stats-pearl-one.vercel.app/api/top-langs/?username=NordStarProj)](https://github.com/NordStarProj/github-readme-stats)
   
 </div>
 
