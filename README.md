@@ -34,7 +34,7 @@
 ----
 
 <div align="center"> 
-  <img src="https://i.ibb.co/ZXmJrsL/Nord-Star-N.png" alt="WebBadge" border="0" height='300'>
+  <img src="https://nordstarproj.ru/NordStarProj.png" alt="WebBadge" border="0" height='300'>
   
 <h1>Made by NordStar Projects.</h1>
 </div>
