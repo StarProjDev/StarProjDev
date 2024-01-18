@@ -1,21 +1,22 @@
 # ✨ NordStar info ✨
 ----
 ### 🧬 Personal data:
-1. **Name:** Christin
-2. **Nickname:** `NordStar` or `iCONO`
+1. **Name:** Christina
+2. **Nickname:** `DarkStar` or `Dark*`
 3. **Status:** Student of RosNOU
 4. **Coding on:** <img src="https://img.shields.io/badge/Node.js-43853D?style=square&logo=node.js&logoColor=white" />, <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=square&logo=c%2B%2B&logoColor=white" />, <img src="https://img.shields.io/badge/JavaScript-323330?style=square&logo=javascript&logoColor=F7DF1E" />
-5. **Speaking on:** 🇺🇸, 🇷🇺
+5. **Languages:** 🇺🇸, 🇷🇺
 6. [NO META QUESTIONS PLS](https://nometa.xyz/)
 ----
 ### 📫 My contacts:
 1. <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=square&logo=telegram&logoColor=white" /> [click](https://t.me/Gen3Static)
 2. <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=square&logo=vk&logoColor=white" /> [click](https://vk.com/palagras)
+3. <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> [click](https://StarProj.dev)
 ----
 ### 🖥️ My PC Specs:
 
-+ **CPU:** <img src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=square&logo=amd&logoColor=white" />
-+ **GPU:** <img src="https://img.shields.io/badge/AMD-Radeon_RX_5700_XT-ED1C24?style=square&logo=amd&logoColor=white" />
++ **CPU:** <img src="https://img.shields.io/badge/Intel%20Core_i9_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
++ **GPU:** <img src="https://img.shields.io/badge/NVIDIA-RTX4090-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 + **RAM:** 16Gb
 + **OS**:
     - **Home:** <img src="https://img.shields.io/badge/Windows_11-0078D6?style=square&logo=windows&logoColor=white" />
