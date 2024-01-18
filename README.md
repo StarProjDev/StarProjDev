@@ -1,4 +1,4 @@
-# ✨ NordStar info ✨
+# ✨ DarkStar info ✨
 ----
 ### 🧬 Personal data:
 1. **Name:** Christina
@@ -11,12 +11,12 @@
 ### 📫 My contacts:
 1. <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=square&logo=telegram&logoColor=white" /> [click](https://t.me/Gen3Static)
 2. <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=square&logo=vk&logoColor=white" /> [click](https://vk.com/palagras)
-3. <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> [click](https://StarProj.dev)
+3. <img src="https://img.shields.io/badge/website-000000?style=square&logo=About.me&logoColor=white" /> [click](https://StarProj.dev)
 ----
 ### 🖥️ My PC Specs:
 
-+ **CPU:** <img src="https://img.shields.io/badge/Intel%20Core_i9_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-+ **GPU:** <img src="https://img.shields.io/badge/NVIDIA-RTX4090-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
++ **CPU:** <img src="https://img.shields.io/badge/Intel%20Core_i9_10th-0071C5?style=square&logo=intel&logoColor=white" />
++ **GPU:** <img src="https://img.shields.io/badge/NVIDIA-RTX4090-76B900?style=square&logo=nvidia&logoColor=white" />
 + **RAM:** 16Gb
 + **OS**:
     - **Home:** <img src="https://img.shields.io/badge/Windows_11-0078D6?style=square&logo=windows&logoColor=white" />
