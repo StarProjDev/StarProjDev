@@ -9,9 +9,8 @@
 6. [NO META QUESTIONS PLS](https://nometa.xyz/)
 ----
 ### 📫 My contacts:
-1. <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=square&logo=telegram&logoColor=white" /> [click](https://t.me/Gen3Static)
-2. <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=square&logo=vk&logoColor=white" /> [click](https://vk.com/palagras)
-3. <img src="https://img.shields.io/badge/website-000000?style=square&logo=About.me&logoColor=white" /> [click](https://StarProj.dev)
+1. <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=square&logo=telegram&logoColor=white" /> [click](https://t.me/darkstardev)
+2. <img src="https://img.shields.io/badge/website-000000?style=square&logo=About.me&logoColor=white" /> [click](https://StarProj.dev)
 ----
 ### 🖥️ My PC Specs:
 
@@ -27,21 +26,21 @@
 
 <div align="center"> 
   
-[![Top Langs](https://github-readme-stats-pearl-one.vercel.app/api/top-langs/?username=NordStarProj&theme=github_dark&show_icons=true)](https://github.com/NordStarProj/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats-pearl-one.vercel.app/api?username=NordStarProj&show_icons=true&theme=github_dark&count_private=true)
+[![Top Langs](https://github-readme-stats-pearl-one.vercel.app/api/top-langs/?username=NordStarProj&theme=github_dark&show_icons=true)](https://github.com/StarProjDev/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-pearl-one.vercel.app/api?username=StarProjDev&show_icons=true&theme=github_dark&count_private=true)
   
 </div>
 
 ----
 
 <div align="center"> 
-  <img src="https://nordstarproj.ru/images/NordStarProj.png" alt="WebBadge" border="0" height='300'>
+  <img src="StarProj.dev/img/logo.png" alt="WebBadge" border="0" height='300'>
   
 <h1>Made by NordStar Projects.</h1>
 </div>
 
 
 <!---
-NordStarProj/NordStarProj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+StarProjDev/StarProjDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
