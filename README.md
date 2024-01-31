@@ -36,7 +36,7 @@
 <div align="center"> 
   <img src="https://StarProj.dev/img/logo.png" alt="WebBadge" border="0" height='300'>
   
-<h1>Made by NordStar Projects.</h1>
+<h1>Made by StarProj.</h1>
 </div>
 
 
