@@ -26,7 +26,7 @@
 
 <div align="center"> 
   
-[![Top Langs](https://github-readme-stats-pearl-one.vercel.app/api/top-langs/?username=NordStarProj&theme=github_dark&show_icons=true)](https://github.com/StarProjDev/github-readme-stats)
+[![Top Langs](https://github-readme-stats-pearl-one.vercel.app/api/top-langs/?username=StarProjDev&theme=github_dark&show_icons=true)](https://github.com/StarProjDev/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats-pearl-one.vercel.app/api?username=StarProjDev&show_icons=true&theme=github_dark&count_private=true)
   
 </div>
