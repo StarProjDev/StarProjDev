@@ -34,7 +34,7 @@
 ----
 
 <div align="center"> 
-  <img src="https://StarProj.dev/img/logo_name.png" alt="WebBadge" border="0" height='300'>
+  <img src="https://StarProj.dev/img/logo_name_slogan.png" alt="WebBadge" border="0">
   
 <h1>Made by StarProj.</h1>
 </div>
