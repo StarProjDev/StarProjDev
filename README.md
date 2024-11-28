@@ -9,24 +9,18 @@
 6. [NO META QUESTIONS PLS](https://nometa.xyz/)
 ----
 ### 📫 My contacts:
-1. <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=square&logo=telegram&logoColor=white" /> [click](https://t.me/darkstardev)
+1. <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=square&logo=telegram&logoColor=white" /> [click](https://t.me/starprojdev)
 2. <img src="https://img.shields.io/badge/website-000000?style=square&logo=About.me&logoColor=white" /> [click](https://StarProj.dev)
 ----
-### 🖥️ My PC Specs:
-
-+ **CPU:** <img src="https://img.shields.io/badge/Intel%20Core_i9_10th-0071C5?style=square&logo=intel&logoColor=white" />
-+ **GPU:** <img src="https://img.shields.io/badge/NVIDIA-RTX4090-76B900?style=square&logo=nvidia&logoColor=white" />
-+ **RAM:** 16Gb
-+ **OS**:
-    - **Home:** <img src="https://img.shields.io/badge/Windows_11-0078D6?style=square&logo=windows&logoColor=white" />
-    - **Server:** <img src="https://img.shields.io/badge/Ubuntu_22.04.1_LTS-E95420?style=square&logo=ubuntu&logoColor=white" />
-+ **IDE:** <img src="https://img.shields.io/badge/WebStorm-000000?style=square&logo=WebStorm&logoColor=white" /> & <img src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=square&logo=delphi&logoColor=white" />
+### 🖥️ My Specs:
+* Laptop: Lenovo ThinkPad X1 Carbon gen10
 ----
 ### Stats:
 
 <div align="center"> 
   
 [![Top Langs](https://github-readme-stats-pearl-one.vercel.app/api/top-langs/?username=StarProjDev&theme=github_dark&show_icons=true&langs_count=6)](https://github.com/StarProjDev/github-readme-stats)
+<br />
 ![Anurag's GitHub stats](https://github-readme-stats-pearl-one.vercel.app/api?username=StarProjDev&show_icons=true&theme=github_dark&count_private=true)
   
 </div>
