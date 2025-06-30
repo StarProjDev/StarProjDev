@@ -4,13 +4,15 @@
 1. **Name:** Kristina
 2. **Nickname:** `StarProjDev`
 3. **Status:** unemployed
-4. **Coding on:** <img src="https://img.shields.io/badge/Node.js-43853D?style=square&logo=node.js&logoColor=white" />, <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=square&logo=c%2B%2B&logoColor=white" />, <img src="https://img.shields.io/badge/JavaScript-323330?style=square&logo=javascript&logoColor=F7DF1E" /> and <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=square&logo=Kotlin&logoColor=white" />
+4. **Programming languages:** <img src="https://img.shields.io/badge/Node.js-43853D?style=square&logo=node.js&logoColor=white" />, <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=square&logo=c%2B%2B&logoColor=white" />, <img src="https://img.shields.io/badge/JavaScript-323330?style=square&logo=javascript&logoColor=F7DF1E" />, <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" /> and <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=square&logo=Kotlin&logoColor=white" />
 5. **Languages:** 🇺🇸, 🇷🇺
 6. [NO META QUESTIONS PLS](https://nometa.xyz/)
 ----
 ### 📫 My contacts:
 1. <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=square&logo=telegram&logoColor=white" /> [click](https://t.me/starprojdev)
 2. <img src="https://img.shields.io/badge/website-000000?style=square&logo=About.me&logoColor=white" /> [click](https://StarProj.dev)
+3. <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /> [click](https://www.linkedin.com/in/kristina-zinkevich-8aa270371/)
+4. [Email](mailto:dev@starproj.dev)
 ----
 ### 🖥️ My Specs:
 * Laptop: Lenovo ThinkPad X1 Carbon gen10
