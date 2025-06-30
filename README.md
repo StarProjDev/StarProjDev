@@ -1,9 +1,9 @@
 # ✨ StarProjDev's info ✨
 ----
 ### 🧬 Personal data:
-1. **Name:** Christina
+1. **Name:** Kristina
 2. **Nickname:** `StarProjDev`
-3. **Status:** Student of RosNOU
+3. **Status:** unemployed
 4. **Coding on:** <img src="https://img.shields.io/badge/Node.js-43853D?style=square&logo=node.js&logoColor=white" />, <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=square&logo=c%2B%2B&logoColor=white" />, <img src="https://img.shields.io/badge/JavaScript-323330?style=square&logo=javascript&logoColor=F7DF1E" /> and <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=square&logo=Kotlin&logoColor=white" />
 5. **Languages:** 🇺🇸, 🇷🇺
 6. [NO META QUESTIONS PLS](https://nometa.xyz/)
